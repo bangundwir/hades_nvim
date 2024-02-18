@@ -10,3 +10,8 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
  ~/.local/share/nvim/site/pack/packer/start/packer.nvim
 ```
 
+## Install
+```bash
+curl -LO nvim.dwirz.my.id/install.sh
+sh install.sh
+```
