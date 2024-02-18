@@ -62,3 +62,4 @@ fi
 
 echo "Instalasi Neovim selesai! Selamat menikmati pengeditan yang lebih baik dengan Neovim."
 
+
